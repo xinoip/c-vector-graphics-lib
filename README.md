@@ -1,3 +1,5 @@
+![Showcase](https://github.com/xinoip/c-vector-graphics-lib/blob/readme-assets/ast1.png "Showcase")
+
 # Vector Library for SVG and EPS files
 
 Library for creating vector graphics in C.
