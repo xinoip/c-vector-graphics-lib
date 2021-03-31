@@ -2,13 +2,7 @@
 
 # Vector Library for SVG and EPS files
 
-Library for creating vector graphics in C.
-
-# Warning
-
-This library is highly unefficient. This was made for C programming course term project.
-
-Library only uses paths for producing the eps or svg file. Because of that the produced file will be much bigger in size.
+Library for creating vector graphics in C. Library has 0 dependencies other than C.
 
 ## Compiling and Running
 
@@ -42,4 +36,7 @@ Things you can do with this library
 * Export as SVG
 * Import as SVG
 
+## Some Links
 
+- [Data Structure For Paths](https://github.com/xinoip/c-vector-graphics-lib/blob/master/Manual/Paths%26Points.png)
+- [Getting Started](https://github.com/xinoip/c-vector-graphics-lib/blob/master/Manual/Getting%20Started.png)
